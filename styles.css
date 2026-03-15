@@ -1,0 +1,24 @@
+.menu {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.menu-item {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+.menu-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.menu-item p {
+    margin: 5px 0;
+    color: #666;
+}
