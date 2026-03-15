@@ -29,6 +29,3 @@ Feel free to make a pull request if you have suggestions or improvements for the
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, please contact [Your Name](mailto:youremail@example.com).
