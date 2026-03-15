@@ -1,31 +1,22 @@
-# Camper Cafe Menu Project
+# Cafe Menu Static Website
 
 ## Overview
-The Camper Cafe Menu Project is designed to showcase a variety of meal options available at the cafe. This project emphasizes the use of modern web technologies to create a responsive and visually appealing menu.
+This project is a static website created using HTML and CSS, showcasing a cafe menu.
 
 ## Features
-- **Responsive Design**: The menu adapts to different screen sizes, making it user-friendly on both mobile and desktop devices.
-- **Dynamic Content**: The menu items can be updated dynamically, allowing for easy changes and additions.
-- **Interactive Elements**: Users can click on menu items to learn more about each dish, including ingredients and pricing.
+- Displays a variety of menu items such as appetizers, mains, and desserts.
+- Each item includes a description and price.
+- Responsive design for optimal viewing on devices of all sizes.
 
-## Installation
-To get started with the Camper Cafe Menu Project, clone the repository and run the following command:
+## How to View the Project
+1. Clone the repository using the command:
+   ```
+   git clone https://github.com/Hope-land321/Freecodecamp1.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Freecodecamp1
+   ```
+3. Open the `index.html` file in your web browser to view the cafe menu.
 
-```bash
-npm install
-```
-
-## Usage
-After installation, you can start the project using:
-
-```bash
-npm start
-```
-
-Visit `http://localhost:3000` in your browser to view the menu.
-
-## Contribution
-Feel free to make a pull request if you have suggestions or improvements for the Camper Cafe Menu Project!
-
-## License
-This project is licensed under the MIT License.
+Feel free to explore and make changes!
